@@ -1,5 +1,5 @@
 module github.com/tamanishi/rebuild_feed_to_json_go
 
-go 1.16
+go 1.20
 
-require golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
+require golang.org/x/net v0.12.0
